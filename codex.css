@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+    table {
+        border: 2px; color: black;
+        height: 360px;
+        width: 100%;
+        background-image: url("Desktop\ -\ 4.png");
+        background-size: cover;
+        color: white;
+    }
+    
+    th ,td{
+        height: 100px;
+        width: 300px;
+        text-align: center;
+    }
+
+    .hero {
+        font-size: 32px;
+        text-align: start;
+        color: black;
+    }
+
+    .titulo {
+        font-size: 50px;
+        text-align: start;
+    }
+
+    .titulo2 {
+        font-size: 50px;
+        text-align: center;
+    }
+
+    .inputSearch {
+        width: 70%;
+        border: none;
+        border-radius: 6px;
+        background-color: rgb(230, 225, 225);
+        padding: 4px;
+    }
+
+    a{
+        text-decoration: none;
+        color:white
+    }
+
+    .logo{
+        text-align: right;
+    }
+
+    .image
+    {
+        width: 260px;
+    }
+
+    .branco{
+        background-color: white;
+        color: black    ;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

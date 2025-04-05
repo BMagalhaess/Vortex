@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    background-color: black;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+table{
+    width: 100%;
+    height: 100%;
+    border-collapse: collapse;
+}
+
+tr{
+    width: 100%;
+}
+
+#qs-principal{
+    width: 100%;
+    height: 35px;
+    align-items: center;
+}
+
+#qs-txt{
+    margin-left: 5%;
+    font-size: 4vw;
+    font-weight: 300;
+}
+
+#p-txt{
+    width: 100%;
+    height: 70px;
+}
+
+#p-mtxt{
+    width: 75%;
+    margin-left: 5%;
+    font-size: 1.5vw;
+    font-weight: 300;
+}
+
+#tp-txt{
+    width: 100%;
+    height: 140px;
+}
+
+.tpcs{
+    margin-left: 5%;
+    font-weight: 300;  
+    font-size: 1.5vw;
+}
+
+.botao {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-left: 5%;
+}
+
+.botao:hover {
+    background-color: #ccc;
+}
+
+
+.inputSearch{
+    width: 30%;
+}
+
+.inputSearch3{
+    width: 50%;
+}
